@@ -12,5 +12,5 @@ Je suis actuellement en phase de reconversion.
 * Licence en économie et gestion 
 
 ## Pourquoi cette formation ?
-Il faut bien commencer quelque part et j'ai besoin d'acquérir les bases du dévelpoppement 
+Il faut bien commencer quelque part et j'ai besoin d'acquérir les bases du développement 
 
